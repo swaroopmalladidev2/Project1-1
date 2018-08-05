@@ -1,3 +1,4 @@
+/*This is code in second branch*/
 /*This is a calculator program*/
 import java.util.Scanner;
 
@@ -6,7 +7,7 @@ public class Calculator {
 	public static void main(String args[]) {
 
 		String operation;
-		Double num1, num2, result;
+		Double num1, num2,num3, result;
 		Scanner in = new Scanner(System.in);
 		
 		System.out.println("Enter first number  ");
