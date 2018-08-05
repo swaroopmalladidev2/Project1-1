@@ -1,3 +1,4 @@
+/*This program will add twi numbers*/
 /*This is a calculator program*/
 import java.util.Scanner;
 
